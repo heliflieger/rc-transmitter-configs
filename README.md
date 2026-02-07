@@ -51,34 +51,55 @@ rc-transmitter-configs/
 ## 🚀 Erste Schritte / Getting Started
 
 **[🇩🇪 Deutsch]** Installation (Beispiel: Ethos)
+
 Navigiere in den Ordner des gewünschten Modells (z.B. Ethos/Goosky/S1).
+
 Lies die dortige README.md für spezifische Schalterbelegungen und Voraussetzungen.
+
 Lade die Ordner models und bitmaps herunter (oder den gesamten Modellordner).
+
 Kopiere den Inhalt (die Ordner models und bitmaps) direkt in das Hauptverzeichnis (Root) deiner Sender-SD-Karte.
+
 *Hinweis:* Wenn dein Betriebssystem fragt, integriere die Ordner in die bestehenden Verzeichnisse ("Zusammenführen").
+
 *Sicherheit:* Entferne vor dem ersten Test immer die Rotorblätter/Propeller! Prüfe die Laufrichtung der Taumelscheibe und des Heckrotors.
 
+
 **[🇬🇧 English]** Installation (Example: Ethos)
+
 Navigate to the folder of the desired model (e.g., Ethos/Goosky/S1).
+
 Read the local README.md for specific switch assignments and requirements.
+
 Download the folders models and bitmaps (or the entire model folder).
+
 Copy the content (the folders models and bitmaps) directly to the root directory of your transmitter's SD card.
+
 *Note:* If prompted by your OS, merge the folders with the existing ones.
+
 *Safety:* Always remove rotor blades/propellers before the first test! Check the direction of the swashplate and tail rotor.
 
 ## 🤝 Contributing
 
 **[🇩🇪 Deutsch]** Du hast eine Optimierung für ein Setup für ein anderes Modell? Pull Requests sind willkommen!
+
 Bitte achte darauf, die Dateistruktur (bitmaps/models) beizubehalten.
+
 Benenne logische Schalter sinnvoll (gerne auf Deutsch).
+
 Füge eine kurze README.md mit den Schalterbelegungen hinzu.
 
+
 **[🇬🇧 English]** Do you have an optimization for a setup for another model? Pull Requests are welcome!
+
 Please ensure you maintain the file structure (bitmaps/models).
+
 Name logical switches meaningfully (German naming is fine).
+
 Add a short README.md explaining the switch assignments.
 
 ## ⚖️ Disclaimer / Haftungsausschluss
 
 **[🇩🇪 Deutsch]** Benutzung auf eigene Gefahr. Der Autor haftet nicht für Schäden, die durch die Nutzung dieser Konfigurationen entstehen. Überprüfe die Einstellungen immer auf der Werkbank, bevor du fliegst. Dies ist ein Community-Projekt und steht in keiner Verbindung zu den Herstellern der RC-Systeme.
+
 **[🇬🇧 English]** Use at your own risk. The author is not responsible for any damage caused by using these configurations. Always verify setups on the bench before flying. This is a community project and is not affiliated with the manufacturers of the RC systems.
