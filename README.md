@@ -46,6 +46,7 @@ rc-transmitter-configs/
 │   │   └── ...
 ├── EdgeTX/
 └── ...
+```
 
 ## 🚀 Erste Schritte / Getting Started
 
