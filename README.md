@@ -18,7 +18,7 @@ Das bedeutet, dass interne Bezeichnungen wie Flugphasen, Mischer oder Logische S
 * *Beispiel:* Eine Flugphase heißt `FP_Schweben` anstatt `FM_Hover`.
 * *Beispiel:* Ein Mischer heißt `Gas` anstatt `Throttle`.
 
-**🇬🇧**
+**[🇬🇧 English]**
 Although this documentation is bilingual, the **model files themselves are programmed in German**.
 This means internal naming conventions for Flight Modes, Mixers, or Logical Switches use German terms.
 * *Example:* A Flight Phase is named `FP_Schweben` instead of `FM_Hover`.
@@ -50,56 +50,46 @@ rc-transmitter-configs/
 
 ## 🚀 Erste Schritte / Getting Started
 
-**[🇩🇪 Deutsch]** Installation (Beispiel: Ethos)
+### **[🇩🇪 Deutsch]** Installation (Beispiel: Ethos)
+1.  Navigiere in den Ordner des gewünschten Modells (z.B. `Ethos/Goosky/S1`).
+2.  Lies die dortige `README.md` für spezifische Schalterbelegungen und Voraussetzungen.
+3.  Lade die Ordner `models` und `bitmaps` herunter (oder den gesamten Modellordner).
+4.  Kopiere den Inhalt (die Ordner `models` und `bitmaps`) direkt in das **Hauptverzeichnis (Root)** deiner Sender-SD-Karte.
+    * *Hinweis:* Wenn dein Betriebssystem fragt, integriere die Ordner in die bestehenden Verzeichnisse ("Zusammenführen").
+5.  **Sicherheit:** Entferne vor dem ersten Test immer die Rotorblätter/Propeller! Prüfe die Laufrichtung der Taumelscheibe und des Heckrotors.
 
-Navigiere in den Ordner des gewünschten Modells (z.B. Ethos/Goosky/S1).
+### **[🇬🇧 English]** Installation (Example: Ethos)
+1.  Navigate to the folder of the desired model (e.g., `Ethos/Goosky/S1`).
+2.  Read the local `README.md` for specific switch assignments and requirements.
+3.  Download the folders `models` and `bitmaps` (or the entire model folder).
+4.  Copy the content (the folders `models` and `bitmaps`) directly to the **root directory** of your transmitter's SD card.
+    * *Note:* If prompted by your OS, merge the folders with the existing ones.
+5.  **Safety:** Always remove rotor blades/propellers before the first test! Check the direction of the swashplate and tail rotor.
 
-Lies die dortige README.md für spezifische Schalterbelegungen und Voraussetzungen.
-
-Lade die Ordner models und bitmaps herunter (oder den gesamten Modellordner).
-
-Kopiere den Inhalt (die Ordner models und bitmaps) direkt in das Hauptverzeichnis (Root) deiner Sender-SD-Karte.
-
-*Hinweis:* Wenn dein Betriebssystem fragt, integriere die Ordner in die bestehenden Verzeichnisse ("Zusammenführen").
-
-*Sicherheit:* Entferne vor dem ersten Test immer die Rotorblätter/Propeller! Prüfe die Laufrichtung der Taumelscheibe und des Heckrotors.
-
-
-**[🇬🇧 English]** Installation (Example: Ethos)
-
-Navigate to the folder of the desired model (e.g., Ethos/Goosky/S1).
-
-Read the local README.md for specific switch assignments and requirements.
-
-Download the folders models and bitmaps (or the entire model folder).
-
-Copy the content (the folders models and bitmaps) directly to the root directory of your transmitter's SD card.
-
-*Note:* If prompted by your OS, merge the folders with the existing ones.
-
-*Safety:* Always remove rotor blades/propellers before the first test! Check the direction of the swashplate and tail rotor.
+---
 
 ## 🤝 Contributing
 
-**[🇩🇪 Deutsch]** Du hast eine Optimierung für ein Setup für ein anderes Modell? Pull Requests sind willkommen!
+**[🇩🇪 Deutsch]**
+Du hast eine Optimierung für den Goosky S1 oder ein Setup für ein anderes Modell? Pull Requests sind willkommen!
 
-Bitte achte darauf, die Dateistruktur (bitmaps/models) beizubehalten.
+* Bitte achte darauf, die Dateistruktur (`bitmaps`/`models`) beizubehalten.
+* Benenne logische Schalter sinnvoll (gerne auf Deutsch).
+* Füge eine kurze `README.md` mit den Schalterbelegungen hinzu.
 
-Benenne logische Schalter sinnvoll (gerne auf Deutsch).
+**[🇬🇧 English]**
+Do you have an optimization for the Goosky S1 or a setup for another model? Pull Requests are welcome!
 
-Füge eine kurze README.md mit den Schalterbelegungen hinzu.
+* Please ensure you maintain the file structure (`bitmaps`/`models`).
+* Name logical switches meaningfully (German naming is fine).
+* Add a short `README.md` explaining the switch assignments.
 
-
-**[🇬🇧 English]** Do you have an optimization for a setup for another model? Pull Requests are welcome!
-
-Please ensure you maintain the file structure (bitmaps/models).
-
-Name logical switches meaningfully (German naming is fine).
-
-Add a short README.md explaining the switch assignments.
+---
 
 ## ⚖️ Disclaimer / Haftungsausschluss
 
-**[🇩🇪 Deutsch]** Benutzung auf eigene Gefahr. Der Autor haftet nicht für Schäden, die durch die Nutzung dieser Konfigurationen entstehen. Überprüfe die Einstellungen immer auf der Werkbank, bevor du fliegst. Dies ist ein Community-Projekt und steht in keiner Verbindung zu den Herstellern der RC-Systeme.
+**[🇩🇪 Deutsch]**
+Benutzung auf eigene Gefahr. Der Autor haftet nicht für Schäden, die durch die Nutzung dieser Konfigurationen entstehen. Überprüfe die Einstellungen immer auf der Werkbank, bevor du fliegst. Dies ist ein Community-Projekt und steht in keiner Verbindung zu den Herstellern der RC-Systeme.
 
-**[🇬🇧 English]** Use at your own risk. The author is not responsible for any damage caused by using these configurations. Always verify setups on the bench before flying. This is a community project and is not affiliated with the manufacturers of the RC systems.
+**[🇬🇧 English]**
+Use at your own risk. The author is not responsible for any damage caused by using these configurations. Always verify setups on the bench before flying. This is a community project and is not affiliated with the manufacturers of the RC systems.
