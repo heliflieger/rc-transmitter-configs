@@ -35,15 +35,16 @@ The folder structure within a specific model mirrors the **SD card directory str
 ```text
 rc-transmitter-configs/
 ├── Ethos/                   <-- Betriebssystem / OS
-│   ├── Goosky/              <-- Hersteller / Manufacturer
-│   │   ├── S1/              <-- Modell / Model
-│   │   │   ├── bitmaps/     <-- Bilder Ordner (SD-Struktur)
-│   │   │   │   └── models/
-│   │   │   │       └── s1.png
-│   │   │   ├── models/      <-- Modelldatei Ordner (SD-Struktur)
-│   │   │   │   └── s1.bin
-│   │   │   └── README.md    <-- Anleitung & Schalter / Manual & Switches
-│   │   └── ...
+|   └── Heliccopter/         <-- Modelltyp / Model Type
+│       ├── Goosky/              <-- Hersteller / Manufacturer
+│       │   ├── S1/              <-- Modell / Model
+│       │   │   ├── bitmaps/     <-- Bilder Ordner (SD-Struktur)
+│       │   │   │   └── models/
+│       │   │   │       └── s1.png
+│       │   │   ├── models/      <-- Modelldatei Ordner (SD-Struktur)
+│       │   │   │   └── s1.bin
+│       │   │   └── README.md    <-- Anleitung & Schalter / Manual & Switches
+│       │   └── ...
 ├── EdgeTX/
 └── ...
 ```
