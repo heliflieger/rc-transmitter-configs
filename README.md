@@ -34,8 +34,8 @@ The folder structure within a specific model mirrors the **SD card directory str
 
 ```text
 rc-transmitter-configs/
-├── Ethos/                   <-- Betriebssystem / OS
-|   └── Heliccopter/         <-- Modelltyp / Model Type
+├── Ethos/                        <-- Betriebssystem / OS
+|   └── Helicopter/              <-- Modelltyp / Model Type
 │       ├── Goosky/              <-- Hersteller / Manufacturer
 │       │   ├── S1/              <-- Modell / Model
 │       │   │   ├── bitmaps/     <-- Bilder Ordner (SD-Struktur)
